@@ -1,4 +1,4 @@
-# Scraper for PDF files from
+# Scraper for PDF files from oxfordlearnersdictionaries.com
 
 This is a quick scraper I wrote to parse some PDF files an generate wordlists.
 
