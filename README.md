@@ -1,6 +1,6 @@
-# Scraper for pdf files from
+# Scraper for PDF files from
 
-This is a quick scraper I wrote to parse some pdf files an generate wordlists.
+This is a quick scraper I wrote to parse some PDF files an generate wordlists.
 
 Usage:
 
@@ -10,6 +10,7 @@ cd oxford5k-data.git
 python -m pip install -r requirements.txt
 python parse_ox5k.py
 downloading https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The%20Oxford%203000.pdf"
+downloading https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The%20Oxford%205000.pdf"
 A1 CD                    A1 TV                    A1 DVD                   A1 May
 A1 box                   A1 boy                   A1 bus                   A1 car
 A1 cat                   A1 cow                   A1 cup                   A1 dad
@@ -31,5 +32,5 @@ A1      January n
 A1      July    n
 ```
 
-The MIT License applies to the `parse_ox5k.py`. IANAL but I assume the data files `ox4k.tsv` and `ox5k.tsv` have the same copyright as the original pdf files: © Oxford University Press.
+The MIT License applies to the `parse_ox5k.py`. IANAL but I assume the data files `ox3k.tsv` and `ox5k.tsv` have the same copyright as the original PDF files: © Oxford University Press.
 
